@@ -1,4 +1,4 @@
 newspaper3k
 feedparser
-lxml
+lxml[html_clean]
 streamlit
